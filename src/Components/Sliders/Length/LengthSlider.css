@@ -1,0 +1,12 @@
+.slider-container{
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+
+@media only screen and (max-width: 900px) {
+  label {
+    font-size:medium;
+  }
+}

@@ -1,0 +1,25 @@
+
+.bar-container
+{
+    /* margin-top: -30px; */
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* onst originalBarColor = "#c4fffd" // light */
+.array-bar
+{
+    background-color: #c4fffd;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 2px;
+    border: 1px solid black;
+    width: 30px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+}
